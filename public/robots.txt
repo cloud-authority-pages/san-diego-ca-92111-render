@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://san-diego-ca-92111.onrender.com/sitemap.xml
+Sitemap: https://san-diego-ca-92111.onrender.com/san-diego-property-management/sitemap.xml
