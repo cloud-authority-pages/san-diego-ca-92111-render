@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: san-diego-ca-92111
+    env: static
+    staticPublishPath: public
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
